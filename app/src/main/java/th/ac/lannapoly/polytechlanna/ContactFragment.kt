@@ -18,6 +18,7 @@ import android.view.ViewGroup
  * create an instance of this fragment.
  */
 class ContactFragment : Fragment() {
+    //
 
     // TODO: Rename and change types of parameters
     private var mParam1: String? = null
